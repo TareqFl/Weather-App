@@ -1,0 +1,3 @@
+api_key = a33156730359ff4a66566dcc7e63be55
+
+url=http://api.ipapi.com/api/161.185.160.93?access_key=a33156730359ff4a66566dcc7e63be55
